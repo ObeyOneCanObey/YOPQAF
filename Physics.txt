@@ -1,0 +1,37 @@
+(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'Radiocarbon is produced in the atmosphere as a result of'
+p3
+sS'a'
+p4
+S'collision between fast neutrons and nitrogen nuclei present in the atmosphere'
+p5
+sb.(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'The absorption of ink by blotting paper involves'
+p3
+sS'a'
+p4
+S'capillary action phenomenon'
+p5
+sb.(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'Nuclear sizes are expressed in a unit named'
+p3
+sS'a'
+p4
+S'Fermi - A unit of length equal to 10-15 meter (one femtometer), used in nuclear physics. It is similar to the diameter of a proton.'
+p5
+sb.

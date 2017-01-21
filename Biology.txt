@@ -1,0 +1,37 @@
+(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'Ordinary table salt is sodium chloride. What is baking soda?'
+p3
+sS'a'
+p4
+S'Sodium bicarbonate'
+p5
+sb.(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'Pollination is best defined as what?'
+p3
+sS'a'
+p4
+S'transfer of pollen from anther to stigma'
+p5
+sb.(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'Movement of cell against concentration gradient is called'
+p3
+sS'a'
+p4
+S'Active transport, this is the only transport method that can move species against their concentration gradient (from low to high concentration). Facilitated diffusion only moves species down their concentration gradient from high to low concentration.'
+p5
+sb.

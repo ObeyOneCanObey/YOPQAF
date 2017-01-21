@@ -1,0 +1,37 @@
+(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'You have two cubes with plane faces. You have to mark both the cubes with numbers in a manner that all the days of a month can be portrayed using those cubes. Also, note that you have to use both the cubes for displaying any date. Suppose if you have to display the 5th day of the month, you will have to display it as 05.'
+p3
+sS'a'
+p4
+S'Numbers of the first cube:\n1, 2, 4, 0, 5 and 6.\n\nNumbers on the second cube:\n3, 1, 2, 7, 8 and 0.\n\nNow you can pick any date and you will be able to show it using these cubes. Remember that you can always use 6 as 9 by inverting it.'
+p5
+sb.(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'Create a number using only the digits 4,4,3,3,2,2,1 and 1. So i can only be eight digits. You have to make sure the ones are separated by one digit, the twos are separated by two digits the threes are separated with three digits and the fours are separated by four digits'
+p3
+sS'a'
+p4
+S'41312432'
+p5
+sb.(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'John is out with his class of 25 boys to a local park. Each guy has a remote controlled car with them. The park has a racetrack that allows 5 cars to be raced at once. Their teacher, Mr. Ted, declares that the top three fastest cars get ice cream.\n\nHow many races are required to determine the 3 fastest cars?'
+p3
+sS'a'
+p4
+S'7 Races'
+p5
+sb.

@@ -1,0 +1,37 @@
+(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'The nucleus of an atom consists of'
+p3
+sS'a'
+p4
+S'protons and neutrons'
+p5
+sb.(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'The metallurgical process in which a metal is obtained in a fused state is called'
+p3
+sS'a'
+p4
+S'smelting'
+p5
+sb.(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'The law which states that the amount of gas dissolved in a liquid is proportional to its partial pressure is'
+p3
+sS'a'
+p4
+S"Henry's law"
+p5
+sb.

@@ -1,0 +1,37 @@
+(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'DNS refers to'
+p3
+sS'a'
+p4
+S'Digital Network Service'
+p5
+sb.(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'A system program that combines the separately compiled modules of a program into a form suitable for execution'
+p3
+sS'a'
+p4
+S'linking loader'
+p5
+sb.(i__main__
+QA
+p0
+(dp1
+S'q'
+p2
+S'The part of machine level instruction, which tells the central processor what has to be done, is'
+p3
+sS'a'
+p4
+S'Operation code'
+p5
+sb.
